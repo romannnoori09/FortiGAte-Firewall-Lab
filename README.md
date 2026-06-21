@@ -43,3 +43,18 @@ A home lab created to practice firewall administration, network security, and tr
 - FortiGate
 - Network Devices
 - Virtual Machines
+
+
+##FortiGate Firewall Lab
+
+
+FW Interfaces Status
+
+![image alt](https://github.com/romannnoori09/FortiGAte-Firewall-Lab/blob/main/FortiGate%20Firewall%20Interfaces.png)
+
+FW Policies
+
+![image alt](https://github.com/romannnoori09/FortiGAte-Firewall-Lab/blob/main/FortiGate%20Firewall%20Policies.png)
+
+
+
